@@ -8,16 +8,21 @@
   <sprites name="sprites">
     <sprite>sprites\sp_Poland</sprite>
     <sprite>sprites\sp_Romania</sprite>
+    <sprite>sprites\sp_frame</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
-    <object>objects\par_enemy</object>
+    <objects name="Parents">
+      <object>objects\par_enemy</object>
+      <object>objects\par_player</object>
+    </objects>
     <object>objects\obj_romania</object>
     <object>objects\obj_poland</object>
+    <object>objects\obj_frame</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room1</room>
+    <room>rooms\r_test</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
