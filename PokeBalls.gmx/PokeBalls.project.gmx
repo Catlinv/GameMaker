@@ -9,6 +9,10 @@
     <sprite>sprites\sp_Poland</sprite>
     <sprite>sprites\sp_Romania</sprite>
     <sprite>sprites\sp_frame</sprite>
+    <sprite>sprites\sp_Moves</sprite>
+    <sprite>sprites\sp_Switch</sprite>
+    <sprite>sprites\sp_Items</sprite>
+    <sprite>sprites\sp_Exit</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -20,6 +24,10 @@
     <object>objects\obj_romania</object>
     <object>objects\obj_poland</object>
     <object>objects\obj_frame</object>
+    <object>objects\obj_Moves</object>
+    <object>objects\obj_Switch</object>
+    <object>objects\obj_Items</object>
+    <object>objects\obj_Exit</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_test</room>
