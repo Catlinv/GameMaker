@@ -6,13 +6,15 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\sp_Poland</sprite>
-    <sprite>sprites\sp_Romania</sprite>
+    <sprites name="Buttons">
+      <sprite>sprites\sp_items</sprite>
+      <sprite>sprites\sp_moves</sprite>
+      <sprite>sprites\sp_exit</sprite>
+      <sprite>sprites\sp_switch</sprite>
+    </sprites>
+    <sprite>sprites\sp_poland</sprite>
+    <sprite>sprites\sp_romania</sprite>
     <sprite>sprites\sp_frame</sprite>
-    <sprite>sprites\sp_Moves</sprite>
-    <sprite>sprites\sp_Switch</sprite>
-    <sprite>sprites\sp_Items</sprite>
-    <sprite>sprites\sp_Exit</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -24,10 +26,10 @@
     <object>objects\obj_romania</object>
     <object>objects\obj_poland</object>
     <object>objects\obj_frame</object>
-    <object>objects\obj_Moves</object>
-    <object>objects\obj_Switch</object>
+    <object>objects\obj_moves</object>
+    <object>objects\obj_switch</object>
     <object>objects\obj_Items</object>
-    <object>objects\obj_Exit</object>
+    <object>objects\obj_exit</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_test</room>
