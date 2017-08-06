@@ -58,6 +58,7 @@
     <instance objName="obj_moves" x="20" y="100" name="inst_FC3BD45B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_switch" x="92" y="100" name="inst_8900CCB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Items" x="20" y="124" name="inst_DF6B3369" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_turn" x="52" y="8" name="inst_0417C306" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

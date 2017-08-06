@@ -15,6 +15,7 @@
     <sprite>sprites\sp_poland</sprite>
     <sprite>sprites\sp_romania</sprite>
     <sprite>sprites\sp_frame</sprite>
+    <sprite>sprites\sp_turn</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -30,6 +31,7 @@
     <object>objects\obj_switch</object>
     <object>objects\obj_Items</object>
     <object>objects\obj_exit</object>
+    <object>objects\obj_turn</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\r_test</room>
